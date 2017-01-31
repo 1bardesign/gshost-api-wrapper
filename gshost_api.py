@@ -1,4 +1,4 @@
-"""GSHost Web Api Wrapper
+"""GSHost Web API Wrapper
 
 Allows remote secure management of a gshost.us server from python
 
