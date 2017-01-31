@@ -41,7 +41,7 @@ my_server.start()
 
 # Dependencies
 
-`gshost_api.py` depends on `requests` - you can learn more [here](python-requests.org/) or just use pip to install `requests` if you haven't already.
+`gshost_api.py` depends on `requests` - you can learn more [here](http://docs.python-requests.org/) or just use pip to install `requests` if you haven't already.
 
 # Warning
 
